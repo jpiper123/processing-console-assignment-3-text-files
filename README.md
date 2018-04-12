@@ -7,7 +7,7 @@ Your program will be reading in a text file with information about your order an
 
 ```
 Go evening <customer name>. Nice to meet you!
-Our daily specials are… (Make up at least 3 and have the Waiter/Waitress say them.) and we currently have three types of drinks on the menu (drink1, drink2, drink3).
+Our daily specials are... (Make up at least 3 and have the Waiter/Waitress say them.) and we currently have three types of drinks on the menu (drink1, drink2, drink3).
 I see that you are ordering <food order> with a <beverage order>.
 Good choice <customer name>, I will be out in a minute with your <food order> and your <beverage order> right away.
 ```
