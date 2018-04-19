@@ -3,3 +3,5 @@ Tacos
 Spaghetti
 Lasagna
 Buffalo Chicken
+Chicken noodle soup
+Pancakes
