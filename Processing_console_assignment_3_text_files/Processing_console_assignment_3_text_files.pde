@@ -12,7 +12,7 @@ void setup() {
   int drink = 2;
   
   String customer[] = loadStrings("list.txt");
-  
+  println("\n");
   println("Name:", customer[name]);
   println("Order:", customer[order]);
   println("Drink:", customer[drink]);
@@ -27,7 +27,7 @@ void setup() {
   int Pancakes = 6;
   
   String dailyspecials[] = loadStrings("specials.txt");
-  
+  println("\n");
   println("Pizza:", dailyspecials[Pizza]);
   println("Tacos:", dailyspecials[Tacos]);
   println("Spaghetti:", dailyspecials[Spaghetti]);
@@ -44,7 +44,7 @@ void setup() {
   int Apple_juice = 4;
   
   String beverages[] = loadStrings("beverages.txt");
-  
+  println("\n");
   println("Pepsi:", beverages[Pepsi]);
   println("Chocolate_milk:", beverages[Chocolate_milk]);
   println("Water:", beverages[Water]);
