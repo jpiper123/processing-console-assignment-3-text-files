@@ -51,10 +51,10 @@ void setup() {
   println("Lemonade:", beverages[Lemonade]);
   println("Apple_juice:", beverages[Apple_juice]);
   
-  println("Good evening Dan. Nice to meet you!");
-  print("Our daily specials are... Pizza, Tacos, and buffalo chicken and we currently have three types of drinks on the menu pepsi, chocolate milk, and apple juice.");
-  print("I see that you are ordering buffalo chicken with a pepsi.");
-  print("Good choice Dan, I will be out in a minute with your buffalo chicken and your pepsi right away.");
+  println("Good evening <customer name>. Nice to meet you!");
+  print("Our daily specials are... (Make up at least 3 and have the Waiter/Waitress say them.) and we currently have three types of drinks on the menu (drink1, drink2, drink3).");
+  print("I see that you are ordering <food order> with a <beverage order>.");
+  print("Good choice <customer name>, I will be out in a minute with your <food order> and your <beverage order> right away.");
 }
 
 void draw() {
